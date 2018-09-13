@@ -1,0 +1,36 @@
+_repo: Journal-of-Small-Things_51245
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Courtney, W. L. (William Leonard)
+    alias: Courtney, William Leonard
+    birthdate: 1850
+    deathdate: 1928
+    gutenberg_agent_id: '7185'
+    url: http://www.gutenberg.org/2009/agents/7185
+creator:
+  author:
+    agent_name: Mackay, Helen
+    alias: Mackay, Helen Gansevoort (Edwards)
+    birthdate: 1876
+    deathdate: 1961
+    gutenberg_agent_id: '46324'
+    url: http://www.gutenberg.org/2009/agents/46324
+description: ''
+gutenberg_issued: '2016-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51245'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Hospitals'
+- GITenberg
+tableOfContents: pt. I. From a house on a road to Paris (July-December, 1914) -- pt.
+  II. Small town far off (August-October, 1915) -- pt. III. Paris (October, 1915-July,
+  1916).
+title: Journal of Small Things
+url: http://www.gutenberg.org/ebooks/51245
